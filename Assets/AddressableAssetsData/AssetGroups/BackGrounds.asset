@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: BackGrounds
+  m_EditorClassIdentifier: 
+  m_GroupName: BackGrounds
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d19be8de2052ebd42888403dbd5e9379
+  m_SerializeEntries:
+  - m_GUID: 77fd36257e5fbd448bf787c173021742
+    m_Address: Assets/Sprites/Backgrounds/2.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Backgrounds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fadb265d7748204cbcbfaa6cee7d4bd
+    m_Address: Assets/Sprites/Backgrounds/1.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Backgrounds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88a84737ec46cfb49ac77d4e8504d88c
+    m_Address: Assets/Sprites/Backgrounds/0.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Backgrounds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1dc7720c599af3e44ac20077fddc48f6
+    m_Address: Assets/Sprites/Backgrounds/3.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Backgrounds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75be08b80068517489b313357ef96e7f
+    m_Address: Assets/Sprites/Backgrounds/4.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Backgrounds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4c09c3987573c54397933601863cada
+    m_Address: Assets/Sprites/Backgrounds/5.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Backgrounds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b60603c0d75f6e44bbbe7b8a767cc51b
+    m_Address: Assets/Sprites/Backgrounds/6.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Backgrounds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 795a10a630e56124aaf23231982acd7b
+    m_Address: Assets/Sprites/Backgrounds/7.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Backgrounds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6523a0143e6f0554daedc778acfc175c
+    m_Address: Assets/Sprites/Backgrounds/8.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Backgrounds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2768f7e7adee23f43b268477fc8453fc
+    m_Address: Assets/Sprites/Backgrounds/9.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Backgrounds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56f0c51e89b1968428a9317954978dde
+    m_Address: Assets/Sprites/Backgrounds/10.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Backgrounds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1505ef13f0d372c43b081a07e6ddb194
+    m_Address: Assets/Sprites/Backgrounds/11.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Backgrounds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b37a7041b131f84e8715ba5c7ae2806
+    m_Address: Assets/Sprites/Backgrounds/12.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Backgrounds
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 176fabeaf0c8f57449c7a8c1dac0afc1
+    m_Address: Assets/Sprites/Backgrounds/13.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Backgrounds
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4c1ecf78f6796154c8526c48fdf78d19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 325f84c63a20d2a40b6320a6a9016404, type: 2}
+    - {fileID: 11400000, guid: ca06ad8baa4244e41b1286cb2af0d70a, type: 2}

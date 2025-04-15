@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Themes
+  m_EditorClassIdentifier: 
+  m_GroupName: Themes
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 507c667c7733ec54dbd2289d6c05dad2
+  m_SerializeEntries:
+  - m_GUID: 3e7ab8c5f1b88b54e9d642a26548c3a9
+    m_Address: "Assets/GameText/AdressableThemes/\u0426\u0432\u0435\u0442\u044B.txt"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WordThemes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffaeb1bab16ed5544a6559193606ce83
+    m_Address: "Assets/GameText/AdressableThemes/\u0416\u0438\u0432\u043E\u0442\u043D\u044B\u0435.txt"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WordThemes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8847e4c63e01b2941830fcb8f2a06d0c
+    m_Address: "Assets/GameText/AdressableThemes/\u041C\u0438\u043B\u043E\u0442\u0430
+      \u0438 \u0443\u044E\u0442.txt"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WordThemes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb3891f70c933524498448b44f38f6ed
+    m_Address: "Assets/GameText/AdressableThemes/\u041B\u044E\u0431\u043E\u0432\u044C.txt"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WordThemes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 265483cf3fad10f4298bdeeb7b3eb875
+    m_Address: "Assets/GameText/AdressableThemes/\u0412\u0430\u043B\u043E\u0440\u0430\u043D\u0442.txt"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WordThemes
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4c1ecf78f6796154c8526c48fdf78d19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: eac4a71f7f25b894b85f29be0d639386, type: 2}
+    - {fileID: 11400000, guid: 95e01df3c52e4f149be2b0fa8780a29a, type: 2}
